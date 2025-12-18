@@ -1,7 +1,7 @@
 # FPGA-MUSIC-GAME 🎵🕹️
 
 基于 **FPGA（EP4CE115F23C7）** 的音乐节奏游戏  
-BUAA《数字系统设计 / FPGA》课程项目
+BUAA《数字电子技术基础 / VLSI数字系统设计》课程项目
 
 ---
 
